@@ -1,3 +1,3 @@
-cd server
+<code> cd server 
 npm install
-node index.js
+node index.js</code>
